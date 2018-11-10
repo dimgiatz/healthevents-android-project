@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="phone1">6945997927</string>
+    <string-array name="sortSpinner">
+        <item>Time Ascending</item>
+        <item>Time Descending</item>
+    </string-array>
+    <string-array name="filterSpinner">
+        <item>All</item>
+        <item>SOS</item>
+        <item>Solar Radiation</item>
+        <item>High Speed</item>
+        <item>Fall</item>
+    </string-array>
+
+</resources>
